@@ -73,9 +73,6 @@ body {
 
 }
 
-#country {
-    height: 15px;
-}
 
 #description-container{
     display: flex;
@@ -90,9 +87,14 @@ body {
     align-items: center;
 }
 
-#details-container #umidity {
+#details-container #humidity {
     border-right: 1px solid aquamarine;
     margin: 0.6rem;
     padding: 0.6rem;
+    
+}
 
+
+#country {
+    height: 15px 15px;
 }
